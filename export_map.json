@@ -1,0 +1,4 @@
+{
+  "raw_observations": ["listing_id","field","filled","analyst","checked_at"],
+  "aggregated_summary": ["field","sample","filled","empty","empty_pct","candidate"]
+}
